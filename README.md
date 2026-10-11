@@ -44,6 +44,14 @@ I'm a self-taught developer who likes building small, useful tools and figuring 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernam69&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usernam69/usernam69/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/usernam69/usernam69/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 📫 Connect
 [![GitHub](https://img.shields.io/badge/-@usernam69-181717?logo=github)](https://github.com/usernam69)
 
