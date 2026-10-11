@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/avatar.svg" width="120" alt="avatar" />
+  <img src="assets/avatar.png" width="120" alt="avatar" />
 
   # Hi, I'm usernam69 👋
 
@@ -23,5 +23,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=usernam69&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
+### 🏆 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernam69&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
 ## 📫 Connect
 [![GitHub](https://img.shields.io/badge/-@usernam69-181717?logo=github)](https://github.com/usernam69)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=usernam69&color=6366f1" alt="profile views" /></p>
