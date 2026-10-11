@@ -1,0 +1,28 @@
+MANUAL STEPS (things Claude can't do for you)
+=============================================
+
+1. Set your profile picture
+   - Download assets/avatar.png from this repo
+     (https://github.com/usernam69/usernam69/blob/main/assets/avatar.png -> "Download raw file")
+   - Go to https://github.com/settings/profile
+   - Click your current picture -> "Upload a photo..." -> choose avatar.png -> "Set new profile picture"
+
+2. Personalize the README
+   - Open README.md and replace the placeholder "About Me" bullets and
+     tech badges with things that are actually true about you.
+
+3. (Optional) Fill in your profile details
+   - At https://github.com/settings/profile add a name, bio, location, website.
+
+4. (Optional) Pin repos
+   - On https://github.com/usernam69 click "Customize your pins" and pick your best repos.
+
+5. (Optional) Delete the leftover Claude branch
+   - https://github.com/usernam69/usernam69/branches -> delete "claude/loving-meitner-kci2el"
+
+6. (Optional) Give future Claude sessions access to the renamed repo
+   - The session was set up for the old name "aboutme", so the GitHub tools
+     can't reach "usernam69/usernam69". Add it in your Claude Code environment's
+     GitHub settings if you want Claude to open PRs there.
+
+Already done for you: repo renamed, main set as default branch, README is live.
