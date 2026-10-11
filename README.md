@@ -3,20 +3,36 @@
 
   # Hi, I'm usernam69 👋
 
-  *Developer · Tinkerer · Always learning*
+  *Self-taught developer · Tool builder · Professional tinkerer*
 </div>
 
 ## 🚀 About Me
-- 🔭 Building small projects and experimenting with new tools
-- 🌱 Currently learning more about software development and AI
-- 💬 Ask me about anything code-related
-- ⚡ Fun fact: I let an AI write this README
+I'm a self-taught developer who likes building small, useful tools and figuring out how things work under the hood. Most of my projects start as "I wonder if I could…" and end at 2 AM.
 
-## 🛠️ Tech I Use
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- 🔭 Working on a CLI tool that automates my boring daily tasks
+- 🌱 Learning Rust and getting deeper into web dev
+- 🤖 Exploring AI-assisted coding (yes, an AI helped write this)
+- 🎮 Off the keyboard: gaming, music, and too much coffee
+- ⚡ Fun fact: my first program was a calculator that couldn't divide
+
+## 🛠️ Tech Stack
+**Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
+## 🎯 Goals for 2026
+- [x] Set up a GitHub profile README
+- [ ] Ship a project people actually use
+- [ ] Contribute to an open-source project
+- [ ] Finish a Rust side project
 
 ## 📊 GitHub Stats
 <p align="center">
