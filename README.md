@@ -46,6 +46,11 @@ I'm a self-taught developer who likes building small, useful tools and figuring 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernam69&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usernam69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+</p>
+
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
