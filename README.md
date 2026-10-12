@@ -3,6 +3,8 @@
 
   # Hi, I'm usernam69 👋
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Self-taught+developer+%F0%9F%92%BB;Building+tools+that+automate+boring+stuff;Currently+learning+Rust+%F0%9F%A6%80;Always+up+for+a+new+side+project" alt="Typing SVG" /></a>
+
   *Self-taught developer · Tool builder · Professional tinkerer*
 </div>
 
